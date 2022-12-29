@@ -1,0 +1,11 @@
+.savedAllotment{
+    width: 70vw;
+    max-width: 600px;
+    padding: 20px;
+}
+
+.savedAllotmentVal{
+    font-size: 16pt;
+    font-weight: 700;
+    text-decoration: underline;
+}
