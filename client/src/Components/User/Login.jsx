@@ -14,7 +14,7 @@ import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import {UserLogin} from '../../Api/User';
-import { toast } from 'react-toastify/dist/react-toastify.cjs.production.min';
+import { toast } from 'react-toastify';
 
 function Copyright(props) {
   return (
