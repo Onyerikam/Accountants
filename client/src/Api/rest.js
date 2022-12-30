@@ -1,4 +1,4 @@
-const BASE_URL = "https://accountants.onrender.com/"
+const BASE_URL = "https://accountants.onrender.com"
 
 export const post = async (method, url, data = null) => {
     const URL = `${BASE_URL}/${url}`;
